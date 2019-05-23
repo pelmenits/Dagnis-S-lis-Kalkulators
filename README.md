@@ -1,1 +1,1 @@
-# Dagnis-S-lis-Kalkulators
+# Janis-Berkis-Budzetu-kalkulators
